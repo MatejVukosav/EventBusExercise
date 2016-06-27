@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventBusExercise</string>
+    <string name="add_fragment">Add fragment</string>
+    <string name="job_finished">Job finished</string>
+</resources>
